@@ -3,4 +3,4 @@
 Something
 
 ##Local Development 
-1. Open Something
+1. Open Something in browser
